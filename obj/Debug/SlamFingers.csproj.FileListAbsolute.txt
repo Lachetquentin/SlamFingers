@@ -1,0 +1,20 @@
+F:\SlamFingers\SlamFingers\bin\Debug\SlamFingers.exe.config
+F:\SlamFingers\SlamFingers\bin\Debug\SlamFingers.exe
+F:\SlamFingers\SlamFingers\bin\Debug\SlamFingers.pdb
+F:\SlamFingers\SlamFingers\obj\Debug\SlamFingers.csprojAssemblyReference.cache
+F:\SlamFingers\SlamFingers\obj\Debug\SlamFingers.FrmMain.resources
+F:\SlamFingers\SlamFingers\obj\Debug\SlamFingers.Properties.Resources.resources
+F:\SlamFingers\SlamFingers\obj\Debug\SlamFingers.csproj.GenerateResource.cache
+F:\SlamFingers\SlamFingers\obj\Debug\SlamFingers.csproj.CoreCompileInputs.cache
+F:\SlamFingers\SlamFingers\obj\Debug\SlamFingers.exe
+F:\SlamFingers\SlamFingers\obj\Debug\SlamFingers.pdb
+F:\Études SIO SLAM\SlamFingers\SlamFingers\bin\Debug\SlamFingers.exe.config
+F:\Études SIO SLAM\SlamFingers\SlamFingers\bin\Debug\SlamFingers.exe
+F:\Études SIO SLAM\SlamFingers\SlamFingers\bin\Debug\SlamFingers.pdb
+F:\Études SIO SLAM\SlamFingers\SlamFingers\obj\Debug\SlamFingers.csprojAssemblyReference.cache
+F:\Études SIO SLAM\SlamFingers\SlamFingers\obj\Debug\SlamFingers.FrmMain.resources
+F:\Études SIO SLAM\SlamFingers\SlamFingers\obj\Debug\SlamFingers.Properties.Resources.resources
+F:\Études SIO SLAM\SlamFingers\SlamFingers\obj\Debug\SlamFingers.csproj.GenerateResource.cache
+F:\Études SIO SLAM\SlamFingers\SlamFingers\obj\Debug\SlamFingers.csproj.CoreCompileInputs.cache
+F:\Études SIO SLAM\SlamFingers\SlamFingers\obj\Debug\SlamFingers.exe
+F:\Études SIO SLAM\SlamFingers\SlamFingers\obj\Debug\SlamFingers.pdb
